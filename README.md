@@ -191,5 +191,4 @@ This project is distributed under the permissive [MIT License](LICENSE), allowin
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/voldigo-anos">Voldy</a> and <a href="https://github.com/1dev-hridoy/Clave-App/graphs/contributors">contributors</a>.</sub>
-</div>
+  <sub>Built with ❤️ by <a href="https://github.com/voldigo-anos">Voldy</a> 
