@@ -47,7 +47,7 @@ Conçu dans un souci d'extensibilité et de personnalisation, Clave App sert de 
     Commencez par forker ce dépôt sur votre compte GitHub, puis clonez-le en local :
     ```bash
     git clone https://github.com/voldigo-anos/Clave.git
-    cd Clave-App
+    cd Clave
     ```
 
 2.  **Installer les dépendances**
